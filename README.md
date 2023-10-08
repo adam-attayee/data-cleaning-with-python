@@ -18,15 +18,3 @@ The primary objective of this project is to transform the raw data contained in 
 - **Data Transformation**: I illustrate how to restructure data to meet the requirements of specific analysis tasks.
 
 - **Documentation**: The project includes clear, step-by-step documentation and code comments to help you understand and replicate the data cleaning and formatting process.
-
-
-## Project Structure
-
-The project repository is organized as follows:
-
-- `data/`: This directory contains the sample dataset used in the project. You can replace it with your own data.
-
-- `notebook/`: This directory contains the Jupyter Notebook with the Python code for data cleaning and formatting.
-
-- `README.md`: This README file provides an overview of the project and instructions for usage.
-
